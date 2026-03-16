@@ -1,0 +1,1 @@
+This is a portion of the dataset from the paper "MP-IQA: A Multidimensional Perceptual Fusion Model for No-Reference Assessment of AI-Generated Images". It includes prompts and some AIGC images. The AIGCIQA-3M data was deposited into the Gene Expression Comprehensive Database and is available at the following URL: https://pan.quark.cn/s/bb206006744d.
